@@ -134,5 +134,3 @@ function aleatorio (lista){
 }
 
 mostraPergunta();
-script.js
-Exibindo script.js…
